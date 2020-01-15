@@ -11,10 +11,10 @@ class App {
 
         this.cardEditing = null;
 
-        //this.url = 'https://node-api-card.herokuapp.com/cards/';
-        //this.urlLogin = 'https://node-api-card.herokuapp.com/login';
-        this.url = 'http://localhost:3000/cards/';
-        this.urlLogin = 'http://localhost:3000/login';
+        this.url = 'https://node-api-card.herokuapp.com/cards/';
+        this.urlLogin = 'https://node-api-card.herokuapp.com/login';
+        //this.url = 'http://localhost:3000/cards/';
+        //this.urlLogin = 'http://localhost:3000/login';
 
         this.token = null;
 
